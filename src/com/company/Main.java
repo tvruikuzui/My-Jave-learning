@@ -12,7 +12,7 @@ public class Main {
         double d = 897324.9283;//8 bytes
 
         char c = 'a';//one bytes one char per char heve to be in ' '
-
+        boolean f = true;//one byte for meny booleans
 
     }
 }
